@@ -2,7 +2,7 @@
   "Author": "Marulu, StreetRat",
   "Name": "ConvenientGraphics",
   "InternalName": "ConvenientGraphics",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ProjectMimer/ConvenientGraphics",
@@ -15,5 +15,5 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Changing Graphics and other settings on the fly",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": false
 }
